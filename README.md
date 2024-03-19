@@ -1,11 +1,11 @@
-Task 1 - "Landing Page"
+Task 1 - "Landing Page":
 
-This project aims to create a captivating and user-friendly landing page using HTML and CSS. The landing page serves as the gateway to our website, making it crucial to leave a lasting impression on visitors. Here's what you need to know about the task:
+This job is about making a nice and easy-to-use first page for a website. The first page is super important because it's the first thing people see when they visit the site. Here's what you need to know:
 
-📁 Task 2 - "Portfolio Website"
+Task 2 - "Portfolio Website":
 
-In this task, you will build your personal portfolio website to showcase your skills, projects, and achievements as a web developer. Your portfolio is a reflection of your professional identity, so make it stand out with these features:
+For this job, you'll make your own website to show off your skills and projects as a web developer. Your website should really impress people and show them what you're capable of. Here are some things to include:
 
-Task 3 - "Calculator Website"
+Task 3 - "Calculator Website":
 
-This task focuses on building a fully functional calculator website using HTML, CSS, and JavaScript. The calculator should be capable of performing basic arithmetic operations and more complex calculations.# Codsoft
+This task is about making a website where people can use a calculator. You'll use HTML, CSS, and JavaScript to make it work. The calculator should be able to do basic math like adding and subtracting, as well as more complicated stuff.
