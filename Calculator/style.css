@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: rgb(27, 27, 27);
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+     height: 70%;
+    
+  
+}
+.head h1{
+color: white;
+margin-bottom: 50px;
+font-size: 50px;
+text-shadow: 1px 1px 10px white;
+
+}
+
+.Calculator{
+    background: rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 1px 1px 10px white;
+}
+.Calculator input[type="text"]{
+    width: 320px;
+   margin-bottom: 5px;
+   height: 100px;
+   padding: 10px;
+   color: white;
+    border: none;
+    border-radius: 5px;
+    background: rgb(27, 27, 27);
+    box-shadow: 1px 1px 5px white;
+    font-size: 30px;
+}
+
+#btns{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+#btns div{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    gap: 10%;margin-top: 15px;
+
+    align-items: center;
+}
+
+.Calculator input[type="button"]{
+    padding: 20px;
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    background: rgb(27, 27, 27);
+    color: white;
+    /* outline: 0.5px solid white; */
+    box-shadow: 1px 1px 5px white;
+    line-height: 10px;
+
+}
+.Calculator input[type="button"]:hover{
+    background-color: rgba(255, 255, 255);
+    color: black;
+}
